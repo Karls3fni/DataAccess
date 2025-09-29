@@ -1,3 +1,45 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# =========================
+# Archivos y carpetas de IntelliJ
+# =========================
+.idea/
+*.iml
+*.iws
+
+# =========================
+# Archivos de compilación de Java
+# =========================
+out/
+*.class
+
+# =========================
+# Logs y temporales
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Archivos del sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Maven
+# =========================
+target/
+
+# =========================
+# Gradle
+# =========================
+build/
+.gradle/
+
+# =========================
+# Otros
+# =========================
+*.jar
+*.war
+*.ear
+
