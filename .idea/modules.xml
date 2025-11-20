@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataAccess.iml" filepath="$PROJECT_DIR$/.idea/DataAccess.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ficheros/Ficheros.iml" filepath="$PROJECT_DIR$/Ficheros/Ficheros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XML_JSON/XML_JSON.iml" filepath="$PROJECT_DIR$/XML_JSON/XML_JSON.iml" />
     </modules>
   </component>
 </project>
